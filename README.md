@@ -68,3 +68,6 @@ locations, suggesting location selection isn’t solely volume-driven
 min_distance_to_tourist_spot heavily influence clustering
 
 Limitations: Lack of real data to draw specific conclusions & time to test other models.
+
+![Slide1](https://github.com/user-attachments/assets/8bfbe04b-45b0-41ca-8dc2-4a26c0ef8b6a)
+
