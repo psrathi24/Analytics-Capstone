@@ -48,7 +48,9 @@ XGB:
 • Trained with multi-class softmax objective
 
 Results: 
+
 <img width="549" alt="Screenshot 2025-05-07 at 10 52 21 AM" src="https://github.com/user-attachments/assets/a72f7e61-d391-40c2-8c5d-333f3be4b7a9" />
+
 <img width="468" alt="Screenshot 2025-05-07 at 10 52 29 AM" src="https://github.com/user-attachments/assets/6090b9ff-6a0d-4c1d-a692-dc263e47803f" />
 
 • XGB significantly outperforms RF (accuracy: 0.83 vs. 0.42)
